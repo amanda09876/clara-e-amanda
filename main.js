@@ -9,7 +9,6 @@ cartao.innerHTML =`
     <p> pergunta</p>
 </div>
  <div class="conteudo-cartao">
-    <h3> categoria</h3>
     <div class="respostas-cartao"></div>
     <p>resposta</p>
 </div>
