@@ -5,10 +5,14 @@
  --destaque: #FF00FF;
  --preto: #000000;
  --branco: #FFFAFA;
- 
-
-}
+ }
 
 body{ 
     background-color: var(--fundo);
+ }
+
+ footer{ 
+    position: fixed;
+    bottom: 0;
+    background-color: var(--preto);
  }
