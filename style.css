@@ -17,4 +17,5 @@ body{
     background-color: var(--preto);
     color: var(--branco);
     width: 100%;
+    text-align: center;
 }
