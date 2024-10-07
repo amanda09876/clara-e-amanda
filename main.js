@@ -8,7 +8,6 @@ cartao.innerHTML =`
     <div class="pergunta-cartao"></div>
     <p> pergunta</p>
 </div>
- <div class="conteudo-cartao">
     <div class="respostas-cartao"></div>
     <p>resposta</p>
 </div>
