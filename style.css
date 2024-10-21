@@ -52,6 +52,7 @@ body{
     position: absolute;
     text-align: left;
     font-size: 1.2vw;
+    backface-visibility: hidden;
 
   }
 
@@ -73,4 +74,8 @@ body{
 
   .cartao:hover .conteudo-cartao{
     transform: rotateY(180deg);
+  }
+
+  .pergunta-cartao, .resposta-cartao{
+    backface-visibility: hidden;
   }
