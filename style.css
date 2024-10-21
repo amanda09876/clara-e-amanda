@@ -1,6 +1,6 @@
 :root{ 
- --fundo: #00CED1;
- --cor-frente: #48D1CC;
+ --fundo: #48D1CC;
+ --cor-frente: #00CED1;
  --cor-verso: #104E8B;
  --destaque: #FF00FF;
  --preto: #000000;
@@ -40,3 +40,14 @@ body{
    color: var(--branco);
    text-align: center;
 }
+
+  .conteudo-cartao h3{ 
+    border: 1px solid var (--destaque);
+    border-radius: 6rem;
+    padding: 0.5rem;
+    margin: 0.5rem;
+    position: absolute;
+    text-align: left;
+    font-size: 1.2vw;
+
+  }
