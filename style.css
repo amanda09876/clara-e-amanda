@@ -58,3 +58,8 @@ body{
     padding: 2rem;
     font-size: 1.4vw;
   }
+
+  .pergunta-cartao{ 
+    font-weight: 500;
+    color: var(--destaque);
+  }
