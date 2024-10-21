@@ -20,4 +20,6 @@ body{
     text-align: center;
 }
 
-
+#container{
+    padding: 4rem;
+}
