@@ -44,7 +44,7 @@ body{
   .conteudo-cartao h3{ 
     border: 1px solid var(--destaque);
     border-radius: 6rem;
-    color: var(--destaque)
+    color: var(--destaque);
     padding: 0.5rem;
     margin: 0.5rem;
     position: absolute;
@@ -61,5 +61,10 @@ body{
 
   .pergunta-cartao{ 
     font-weight: 500;
+    color: var(--destaque);
+  }
+
+  .resposta-cartao{ 
+    font-weight: 700;
     color: var(--destaque);
   }
