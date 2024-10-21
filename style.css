@@ -75,7 +75,7 @@ body{
     transform: rotateY(180deg);
   }
 
-  .cartao.active .conteudo-cartao{
+  .cartao.hover.conteudo-cartao{
     transform: rotateY(180deg);
   }
 
