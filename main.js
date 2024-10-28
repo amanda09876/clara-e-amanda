@@ -10,8 +10,15 @@ cartao.innerHTML =`
 </div>
     <div class="respostas-cartao">
     <p>${resposta}</p>
-</div>
-</div>
+    </div>
+
+    let respostaEstaviivel = false;
+    
+    function viraCartao (){ 
+     respostaEstaviivel = !respostasEstavisivel);
+     cartao.classiList.toggle('active', respostasEstaVisivel);
+}
+
 `
 container.appendChild(cartao)
 }
