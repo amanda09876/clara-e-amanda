@@ -12,13 +12,13 @@ cartao.innerHTML =`
     <p>${resposta}</p>
     </div>
 
-    let respostaEstaviivel = false;
+`
+    let respostaEstavisivel = false;
     
     function viraCartao (){ 
-     respostaEstaviivel = !respostasEstavisivel);
-     cartao.classiList.toggle('active', respostasEstaVisivel);
+     respostaEstavisivel = !respostaEstavisivel;
+     cartao.classiList.toggle('active', respostaEstavisivel);
 }
 
-`
 container.appendChild(cartao)
 }
