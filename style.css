@@ -9,9 +9,21 @@
 
 body{ 
     background-color: var(--fundo);
+    margin: 0;
  }
 
- footer{ 
+ header { 
+  background-color: var(--preto);
+  display: flex;
+  justify-content: space-around;
+  padding: 2rem;
+}
+
+header a { 
+  color: var(--branco);
+}
+  
+footer{ 
     position: fixed;
     bottom: 0;
     background-color: var(--preto);
